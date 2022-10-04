@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "name": "tushar",
+      "email": "tusharbanik567@gmail.com",
+      "mobile": "7399bdsdasbha",
+      "password": "sabcbhsbczs",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
